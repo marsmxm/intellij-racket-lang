@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.marsmxm.intellijracketlang
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
